@@ -16,7 +16,7 @@
  3. Dense 
  
  
- #### Some Overview of the Dataset
+ #### Some Overview of the Code
  
  #### Cleaning of the dataset 
  ![alt txt](https://github.com/hasan-moni-321/Language-Translation/blob/master/images/1.png)
