@@ -2,15 +2,21 @@
  
  
  
- ### About The Problem 
+ #### About The Problem 
  This is a translation of Bengali language to English
  
  
- ### About The Dataset 
+ #### About The Dataset 
  There are two language in this dataset. one in Bengali and another one is English.
  
  
- ### Some Overview of the Dataset
+ #### Used Layers of TensorFlow
+ 1. Embedding 
+ 2. LSTM 
+ 3. Dense 
+ 
+ 
+ #### Some Overview of the Dataset
  
  #### Cleaning of the dataset 
  ![alt txt](https://github.com/hasan-moni-321/Language-Translation/blob/master/images/1.png)
