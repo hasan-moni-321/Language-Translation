@@ -27,12 +27,28 @@
  #### English and Bengali Tokenizer 
  ![alt txt](https://github.com/hasan-moni-321/Language-Translation/blob/master/images/5.png)
 
-####
+ #### Encoding and Pad Sequence 
+ ![alt txt](https://github.com/hasan-moni-321/Language-Translation/blob/master/images/6.png)
+ 
+ #### One Hot Encoding 
+ ![alt txt](https://github.com/hasan-moni-321/Language-Translation/blob/master/images/7.png)
+ 
+ #### Model 
+ ![alt txt](https://github.com/hasan-moni-321/Language-Translation/blob/master/images/8.png)
 
+ #### Model Training 
+ ![alt txt](https://github.com/hasan-moni-321/Language-Translation/blob/master/images/9.png)
+ 
+ #### Generate Sequence 
+ ![alt txt](https://github.com/hasan-moni-321/Language-Translation/blob/master/images/10.png)
+ 
+ #### Testing with Test Data
+ ![alt txt](https://github.com/hasan-moni-321/Language-Translation/blob/master/images/11.png)
  
  
-### Dataset Link
-[here](http://www.manythings.org/anki/)
-
-### Credits
-1. [here](https://machinelearningmastery.com/introduction-neural-machine-translation/)  
+ 
+ ### Future Work 
+ 1. Take more and more data
+ 2. Use more layer for a better model
+ 3. Use Hyperparameter Tuning
+ 
